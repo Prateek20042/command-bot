@@ -1,4 +1,4 @@
-# Command Analysis Bot
+# Go Command Bot
 
 A Go-based CLI tool that analyzes work commands using LLM (Ollama) to extract structured instructions, actions, and entity resolutions.
 
